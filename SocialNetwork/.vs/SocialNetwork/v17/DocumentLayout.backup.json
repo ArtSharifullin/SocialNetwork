@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBCEB5-67D5-454C-A1DE-85B2174E11A3}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\shido\\source\\repos\\socialnetwork\\socialnetwork\\views\\shared\\sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BACBCEB5-67D5-454C-A1DE-85B2174E11A3}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\shared\\sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBCEB5-67D5-454C-A1DE-85B2174E11A3}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\shido\\source\\repos\\socialnetwork\\socialnetwork\\htmlhelperextensions\\htmlhelperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BACBCEB5-67D5-454C-A1DE-85B2174E11A3}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\htmlhelperextensions\\htmlhelperextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACBCEB5-67D5-454C-A1DE-85B2174E11A3}|SocialNetwork\\SocialNetwork.csproj|c:\\users\\shido\\source\\repos\\socialnetwork\\socialnetwork\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BACBCEB5-67D5-454C-A1DE-85B2174E11A3}|SocialNetwork\\SocialNetwork.csproj|solutionrelative:socialnetwork\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\SocialNetwork\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SocialNetwork\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\SocialNetwork\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SocialNetwork\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T14:41:40.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtmlHelperExtension.cs",
+              "DocumentMoniker": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\SocialNetwork\\HtmlHelperExtensions\\HtmlHelperExtension.cs",
+              "RelativeDocumentMoniker": "SocialNetwork\\HtmlHelperExtensions\\HtmlHelperExtension.cs",
+              "ToolTip": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\SocialNetwork\\HtmlHelperExtensions\\HtmlHelperExtension.cs",
+              "RelativeToolTip": "SocialNetwork\\HtmlHelperExtensions\\HtmlHelperExtension.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:31:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SideBarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\SocialNetwork\\Views\\Shared\\SideBarPartial.cshtml",
+              "RelativeDocumentMoniker": "SocialNetwork\\Views\\Shared\\SideBarPartial.cshtml",
+              "ToolTip": "C:\\Users\\SHIDO\\source\\repos\\SocialNetwork\\SocialNetwork\\Views\\Shared\\SideBarPartial.cshtml*",
+              "RelativeToolTip": "SocialNetwork\\Views\\Shared\\SideBarPartial.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T14:27:11.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
